@@ -1,1 +1,1 @@
-# ProjectTemplate
+# ALL project template for cookiecutter 

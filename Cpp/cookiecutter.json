@@ -1,0 +1,5 @@
+{
+    "project_name": "cpp_project",
+    "cpp_standard": "17",
+    "author": "{{ env['USERNAME'] }}"
+}
